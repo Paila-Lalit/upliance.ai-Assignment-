@@ -60,3 +60,5 @@ Introduce breakfast combos or discounts to encourage more orders during this tim
 
 This analysis highlights key trends in user behavior, popular dishes, and demographic influences. By leveraging these insights, the business can enhance user engagement, increase order frequency, and develop targeted campaigns for sustained growth.
 
+## Final Dashboard
+![Screenshot 2024-12-13 210734](https://github.com/user-attachments/assets/a4846dfd-be4b-48a8-bd20-04d0e202a663)
